@@ -1,0 +1,93 @@
+{
+  "note": "209건 명세서의 메시지 표가 같다. 설명에 적힌 파라미터 이름이 그 서비스의 요청인자와 다른 경우가 있다.",
+  "messages": [
+    {
+      "code": "APIERROR-0001",
+      "description": "파라미터 값이 누락 혹은 유효하지 않습니다."
+    },
+    {
+      "code": "APIERROR-0002",
+      "description": "서버 오류입니다.(지속적으로 발생시 시스템 담당자에게 문의 바랍니다.)"
+    },
+    {
+      "code": "APIERROR-0003",
+      "description": "일별 트래픽 제한을 넘은 호출입니다. 오늘은 더이상 호출할 수 없습니다."
+    },
+    {
+      "code": "APIERROR-0004",
+      "description": "서비스ID값이 없습니다.요청인자 중 ID를 확인하십시오."
+    },
+    {
+      "code": "APIERROR-0005",
+      "description": "인증키값이 없습니다.요청인자 중 Key를 확인하십시오."
+    },
+    {
+      "code": "APIERROR-0006",
+      "description": "search_regn1_name_api 파라미터 값이 유효하지 않습니다."
+    },
+    {
+      "code": "APIERROR-0007",
+      "description": "search_regn2_name_api 파라미터 값이 유효하지 않습니다."
+    },
+    {
+      "code": "APIERROR-0008",
+      "description": "search_regt1_name_api 파라미터 값이 유효하지 않습니다."
+    },
+    {
+      "code": "APIERROR-0009",
+      "description": "search_regt2_name_api 파라미터 값이 유효하지 않습니다."
+    },
+    {
+      "code": "APIERROR-0010",
+      "description": "출력데이터가 너무 많습니다. 검색기간을 줄여주세요."
+    },
+    {
+      "code": "APIERROR-0011",
+      "description": "조회기간이 제한범위를 초과하였습니다. 검색기간을 줄여주세요."
+    },
+    {
+      "code": "APIERROR-0012",
+      "description": "필수 요청인자가 누락되었습니다."
+    },
+    {
+      "code": "APIERROR-0013",
+      "description": "필수 요청인자 파라미터 값이 누락 혹은 유효하지 않습니다."
+    },
+    {
+      "code": "APIERROR-0014",
+      "description": "최근 3년의 데이터만 제공합니다. 검색시작기간을 확인하세요."
+    },
+    {
+      "code": "APIERROR-0015",
+      "description": "유효한 서비스 ID가 아닙니다."
+    },
+    {
+      "code": "APIERROR-0016",
+      "description": "OpenAPI 서비스 시간이 아닙니다."
+    },
+    {
+      "code": "APIINFO-0001",
+      "description": "정상 처리되었습니다."
+    },
+    {
+      "code": "APIINFO-0002",
+      "description": "사용 중단된 인증키입니다."
+    },
+    {
+      "code": "APIINFO-0003",
+      "description": "해당하는 데이터가 없습니다."
+    },
+    {
+      "code": "APIINFO-0004",
+      "description": "해당하는 인증키를 찾을 수 없습니다. 요청인자 중 KEY를 확인하십시오."
+    },
+    {
+      "code": "APIINFO-0005",
+      "description": "해당하는 서비스를 찾을 수 없습니다. 요청인자 중 ID를 확인하십시오."
+    },
+    {
+      "code": "APIINFO-0006",
+      "description": "해당 서비스ID는 제공 중단된 서비스입니다."
+    }
+  ]
+}
